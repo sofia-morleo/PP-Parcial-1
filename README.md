@@ -13,9 +13,9 @@ Es todo estático: no hay base de datos todavía, los datos son de ejemplo (arra
 ## Cómo levantarlo
 
 Con XAMPP:
-1. Copiar la carpeta `city-farmac` dentro de `xampp/htdocs`.
+1. Copiar la carpeta `Parcial1` dentro de `xampp/htdocs`.
 2. Prender Apache desde el panel de XAMPP.
-3. Entrar a http://localhost/city-farmac
+3. Entrar a http://localhost/Parcial1
 
 O con el servidor que trae PHP, parado en la carpeta del proyecto:
 
