@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300" viewBox="0 0 400 300" role="img" aria-label="Sal de Uvas Frut">
+  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#0a8457"/><stop offset="1" stop-color="#5cbf8f"/>
+  </linearGradient></defs>
+  <rect width="400" height="300" fill="url(#g)"/>
+  <g fill="#ffffff" opacity="0.16">
+    <rect x="176" y="70" width="48" height="130" rx="12"/><rect x="135" y="111" width="130" height="48" rx="12"/>
+  </g>
+  <text x="30" y="230" font-family="Segoe UI, Arial, sans-serif" font-size="15" fill="#ffffff" opacity="0.85">Genomma Lab</text>
+  <text x="30" y="258" font-family="Segoe UI, Arial, sans-serif" font-size="21" font-weight="700" fill="#ffffff">Sal de Uvas Frut</text>
+  <text x="30" y="284" font-family="Segoe UI, Arial, sans-serif" font-size="21" font-weight="700" fill="#ffffff"></text>
+</svg>
